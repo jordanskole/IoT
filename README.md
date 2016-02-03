@@ -15,3 +15,4 @@ This is a repository to store notes on my IoT projects, and any dashboards that 
 * [Who's Home?](#) - Like the Keychain/Racks, only uses a Bluetooth basestation and phones or small sensors like [Tiles](#) to determine who's home.
 * [Train Crossing Monitor](#) - Solar/3G device that broadcasts when a train is crossing an intersection. Test in downtown Royal Oak. _note: what if the train is stopped at an intersection?_
 * [Wifi/3G meet thermometer](#) - A meat thermometer that broadcasts the temperature of my dad's smoker. Thanks Henry! 
+* [Blimp Drone](#) - Floats up via a string, and stays aimed at the HS field to get aerial drone shots of the game. Thanks Kevin! 
