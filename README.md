@@ -16,3 +16,4 @@ This is a repository to store notes on my IoT projects, and any dashboards that 
 * [Train Crossing Monitor](#) - Solar/3G device that broadcasts when a train is crossing an intersection. Test in downtown Royal Oak. _note: what if the train is stopped at an intersection?_
 * [Wifi/3G meet thermometer](#) - A meat thermometer that broadcasts the temperature of my dad's smoker. Thanks Henry! 
 * [Blimp Drone](#) - Floats up via a string, and stays aimed at the HS field to get aerial drone shots of the game. Thanks Kevin! 
+* [Roswell](#) - Weather ballon that captures weather data (temp, altitude, humidity, gps position) and broadcasts it back to earth via 3G [_note: maybe use xbee 40 mile?_]. Start with fishing line leash, eventually let that fella loose!.
