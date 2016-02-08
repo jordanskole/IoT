@@ -5,6 +5,7 @@ This is a repository to store notes on my IoT projects, and any dashboards that 
 ## Projects
 
 * [Mailbox](#) - can tell if there is mail, or if the postal worker has visited, and if there is mail in the mailbox
+* [Grocery Buttons/Kitchen Switches](#) - A WiFi connected device, (similar to the Amazon Button) that populates a grocery list from simple button press. For example, you could have 9 buttons of perishables (milk, eggs, juice, lunch meat, bread). Press the bread button? Add bread to the grocery list + red LED. Buy bread and mark complete in app? Kitchen Switch goes green. Press the bread button again (while green) Removes bread from list. 
 * [Maggy Plant](https://github.com/jordanskole/IoT/tree/master/maggyplant) - Logs data about Heather and my plant; Maggy Plant. Temp, ambient light, soil moisture, humidity. Save notes about the plant's health. Indoor version of [Costa Rica Weather Station](#). 
 * [Washing Machine Attachment/Puck](#) - can tell if the washer/dryer has finished
 * [Keychain/Racks](#) - can tell who is home (or at least what cars). Requires people hang keys on hooks.
