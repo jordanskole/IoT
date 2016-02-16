@@ -4,7 +4,7 @@ This is a repository to store notes on my IoT projects, and any dashboards that 
 
 ## Projects
 
-* [Bus Stop Blinkers](#) - LED indicators that signal if a bus is X, 5, or 1 minute from the stop. Solar power + 3G connectivity. Thanks Adam! 
+* [Bus Stop Blinkers](#) - LED indicators that signal if a bus is X, 5, or 1 minute from the stop. Solar power + 3G connectivity. Utilize the secret and buried [DDOT Real Time Data API](http://ddot-beta.herokuapp.com/api/api/where/vehicles-for-agency/DDOT.json?key=LIVEMAP). Thanks Adam! 
 * [Electric Cruiser](#) - Frame built by [Go Cruiser Go](https://www.facebook.com/goCRUISERgo/). A true showpiece. 
 * [Mailbox](#) - can tell if there is mail, or if the postal worker has visited, and if there is mail in the mailbox
 * [Grocery Buttons/Kitchen Switches](#) - A WiFi connected device, (similar to the Amazon Button) that populates a grocery list from simple button press. For example, you could have 9 buttons of perishables (milk, eggs, juice, lunch meat, bread). Press the bread button? Add bread to the grocery list + red LED. Buy bread and mark complete in app? Kitchen Switch goes green. Press the bread button again (while green) Removes bread from list. 
