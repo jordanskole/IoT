@@ -23,3 +23,4 @@ This is a repository to store notes on my IoT projects, and any dashboards that 
 * [Roswell](#) - Weather ballon that captures weather data (temp, altitude, humidity, gps position) and broadcasts it back to earth via 3G [_note: maybe use xbee 40 mile?_]. Start with fishing line leash, eventually let that fella loose!.
 * [Air Quality Sensor](#) - For the basement of my cousin's "Man Cave."
 * [Polar/Desert Drone](#) - [This chassis](https://www.sparkfun.com/products/12719), plus [this com](https://www.sparkfun.com/products/13745) platform. 
+* [Foo Bartender](#) - A [robotic desktop arm](https://www.sparkfun.com/products/13663) for mixing cocktails from a preset menu. 
