@@ -1,8 +1,10 @@
-# IoT
+# Projects
 
-This is a repository to store notes on my IoT projects, and any dashboards that belong to them. If you have an idea, or a comment, create an [issue](https://github.com/jordanskole/IoT/issues).
+This is a repository for all the different projects that I would like to work on. 
 
-## Projects
+## IoT
+
+These are the notes on my IoT projects, and any dashboards that belong to them. If you have an idea, or a comment, create an [issue](https://github.com/jordanskole/IoT/issues).
 
 * [**Bus Stop Blinkers**](#) - LED indicators that signal if a bus is X, 5, or 1 minute from the stop. Solar power + 3G connectivity. Utilize the secret and buried [DDOT Real Time Data API](http://ddot-beta.herokuapp.com/api/api/where/vehicles-for-agency/DDOT.json?key=LIVEMAP). Thanks Adam! 
 * [**Electric Cruiser**](#) - Frame built by [Go Cruiser Go](https://www.facebook.com/goCRUISERgo/). A true showpiece. 
@@ -24,3 +26,11 @@ This is a repository to store notes on my IoT projects, and any dashboards that 
 * [**Air Quality Sensor**](#) - For the basement of my cousin's "Man Cave."
 * [**Polar/Desert Drone**](#) - [This chassis](https://www.sparkfun.com/products/12719), plus [this com](https://www.sparkfun.com/products/13745) platform. 
 * [**Foo Bartender**](#) - A [robotic desktop arm](https://www.sparkfun.com/products/13663) for mixing cocktails from a preset menu. 
+
+## Software as a Service
+
+* [**Mo' Money**](#) - A payments gateway for my uncle Morris (Mo) to process payments for his soccer club Vardar. 
+* [**Wine Cellar**](#) - A repository for kit "wineries" to keep track of their concurrent brews.
+* [**Detroit Grand Prix**](#) - A race video game where you race around Detroit. Built in Unity3d.
+* [**Freshman**](#) - A map of the most popular college campuses in the united states, with assignments on how to get around. So that foreign students can learn their way around before their first day on campus. 
+* [**Your Idea Here!**](#) - If you have an idea for a piece of software or an application you would like to see built, I would be happy to consider it. 
