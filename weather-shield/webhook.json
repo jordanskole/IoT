@@ -1,0 +1,18 @@
+{
+  "event": "WeatherDweet",
+  "url": "https://dweet.io/dweet/for/HackWSU",
+  "requestType": "POST",
+  "json": {
+    "subject": "{{s}}",
+    "unitofmeasure": "{{u}}",
+    "measurename": "{{m}}",
+    "value": "{{v}}",
+    "organization": "{{o}}",
+    "displayname": "{{d}}",
+    "location": "{{l}}",
+    "timecreated": "{{SPARK_PUBLISHED_AT}}",
+    "guid": "{{SPARK_CORE_ID}}"
+  },
+
+  "mydevices": true
+}
