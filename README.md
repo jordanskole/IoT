@@ -29,8 +29,22 @@ These are the notes on my IoT projects, and any dashboards that belong to them. 
 
 ## Software as a Service
 
-* [**Mo' Money**](#) - A payments gateway for my uncle Morris (Mo) to process payments for his soccer club Vardar. 
+* [**Mo' Money**](#) - A payments gateway for my uncle Morris (Mo) to process payments for his soccer club Vardar. (This now exists as Wolfpack Apps) 
 * [**Wine Cellar**](#) - A repository for kit "wineries" to keep track of their concurrent brews.
+* Detroit Startup Jobs - Scrape & Promote AngelList jobs, and also people can add jobs
+* Burgundy Wine Club - Monthly Burgundies
+* Better Trello - Trello with jsPlumb automations (chrome extension)
+* Places b-roll
+* Liquidity Lattes - how can people sell their shares on the private market
+* Balance Maker - Like Wallaby, but just shows your actual balance if you want to zero your cards each month
+* Dad’s Forest webapp
+* Recipe CMS
 * [**Detroit Grand Prix**](#) - A race video game where you race around Detroit. Built in Unity3d.
 * [**Freshman**](#) - A map of the most popular college campuses in the united states, with assignments on how to get around. So that foreign students can learn their way around before their first day on campus. 
+
+## Other things
+
+* Drones Agency
+
+
 * [**Your Idea Here!**](#) - If you have an idea for a piece of software or an application you would like to see built, I would be happy to consider it. 
