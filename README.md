@@ -44,6 +44,7 @@ These are the notes on my IoT projects, and any dashboards that belong to them. 
 
 ## Other things
 
+* [**Facebook "Support" button**](#) - A chrome extension that adds a "donate" button to Facebook media pages. If a story like #NoDAPL or #blacklivesmatter gets shared in your newsfeed, has a support button for a vetted charity. 
 * Drones Agency
 
 
